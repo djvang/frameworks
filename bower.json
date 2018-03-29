@@ -1,0 +1,22 @@
+{
+  "name": "frameworks",
+  "authors": [
+    "djvang <djvang92@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uikit": "v3.0.0-beta.40",
+    "bootstrap": "^4.0.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
